@@ -81,7 +81,7 @@ SmartNews-AI/
 
 #### 1. 克隆仓库
 ```bash
-git clone https://github.com/RMA-MUN/SmartNews-AI.git
+git clone https://github.com/wumingye705-alt/SmartNews-AI-main.git
 cd SmartNews-AI
 ```
 
